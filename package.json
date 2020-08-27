@@ -1,0 +1,27 @@
+{
+  "name": "gv-js-training",
+  "version": "1.0.0",
+  "description": "training package",
+  "main": "src/date.js",
+  "scripts": {
+    "test": "node src/date.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantisektoman-gv/gv-js-training.git"
+  },
+  "author": "fandic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frantisektoman-gv/gv-js-training/issues"
+  },
+  "homepage": "https://github.com/frantisektoman-gv/gv-js-training#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
